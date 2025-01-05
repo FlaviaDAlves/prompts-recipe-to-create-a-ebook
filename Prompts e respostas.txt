@@ -1,0 +1,57 @@
+Prompt titulo:
+
+Crie um título de um ebook sobre o tema ganhar dinheiro com confeitaria, o ebookk é do nicho de cozinheiros iniciantes, o título deve ser chamativo e curto, e tenha uma temática de doces, me liste 5 variações de títulos
+
+Promp texto:
+
+Faça um texto para podcast , com foco em ganhar dinheiro com confeitaria. Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
+
+
+Resposta:
+
+### Episódio: "Transforme Seus Doces em Lucro"  
+
+#### Introdução (0:00 - 0:30)
+"Você sabia que seu hobby de fazer bolos e doces pode se tornar uma fonte de renda lucrativa? No episódio de hoje, vou mostrar como ganhar dinheiro com confeitaria. Se você é iniciante, não se preocupe! Vou usar uma linguagem simples, com exemplos práticos para você começar agora mesmo! Vamos lá?"
+
+---
+
+#### Título 1: "Comece Simples, Mas com Planejamento" (0:30 - 2:00)
+"Não é preciso ter uma cozinha profissional para começar. Muitos confeiteiros de sucesso iniciaram com o forno de casa. Mas comece com um planejamento. Aqui estão alguns passos práticos:
+
+- Escolha um nicho: brigadeiros gourmet, bolos caseiros ou cupcakes personalizados são boas opções.
+- Estime seus custos: Liste ingredientes, embalagens e energia elétrica. Por exemplo, se você gastar R$ 20,00 para produzir 12 cupcakes e vender cada um por R$ 5,00, você terá um lucro de R$ 40,00 por lote.
+- Crie um cardápio simples: Ofereça poucas opções no começo para facilitar a produção e o controle de custos."
+
+---
+
+#### Título 2: "Use o Poder das Redes Sociais" (2:00 - 3:00)
+"Hoje em dia, as redes sociais são suas melhores amigas para divulgar seus doces. Aqui vai uma estratégia simples e eficiente:
+
+- Fotografe seus produtos em boa iluminação natural.
+- Use hashtags relevantes como #docesartesanais ou #bolospersonalizados.
+- Poste depoimentos de clientes satisfeitos.
+
+Por exemplo: Imagine postar um vídeo curto no Instagram mostrando um bolo recheado sendo cortado. Isso ativa o desejo de compra instantaneamente!"
+
+---
+
+#### Título 3: "Ofereça Degustação Estratégica" (3:00 - 4:00)
+"Outra tática poderosa é oferecer pequenas degustações. Isso gera interesse e atrai novos clientes. Por exemplo, você pode criar kits com miniaturas de seus melhores produtos e oferecer para cafeterias locais ou amigos que organizam eventos.
+
+Aqui está uma dica bônus: Inclua um cartão de visitas junto com cada kit de degustação! Isso ajuda a espalhar seu contato."
+
+---
+
+#### Título 4: "Precifique com Inteligência" (4:00 - 5:00)
+"Agora, vamos falar de preço. O erro mais comum é subestimar os custos ou copiar os preços da concorrência. Veja um exemplo prático de cálculo:
+
+- Soma dos custos: R$ 15,00 por um bolo de chocolate.
+- Acrescente 30% de lucro: 15 + (15 x 0,30) = R$ 19,50.
+- Avalie o mercado e arredonde para cima, se possível. Esse bolo poderia ser vendido por R$ 20,00 ou mais, dependendo da sua região."
+
+---
+
+#### Conclusão (5:00 - 5:30)
+"Agora que você aprendeu essas dicas práticas, que tal começar seu próprio negócio doce hoje mesmo? Se você gostou desse episódio, compartilhe com um amigo que também ama confeitar. E lembre-se: pequenos passos levam a grandes resultados! Até a próxima!"
+
